@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Co to jest python?"
+  },
+  {
+    "role": "assistant",
+    "content": "Python - popularny programing język, który został stworzony w latach 90. przez Guida van Rossuma. Jego nazwa pochodzi od muzyka jazzowego grona \"Peter Green's Flying Machine\".\n\nPython jest znany z swojej prostotliwości i łatwości w użyciu, co go czyni popularnym wyborem dla początkujących programistów. Jego syntaxę języka można porównać do angielskiego języka C.\n\nPython jest również znany ze swoich wielu korzyści, takich jak:\n\n- **Prostota w użyciu**: Python jest łatwy w uczeniu i skomponowaniu.\n- **Wielkość bibliotek**: Istnieje wiele licencjonowanych bibliotek Pythona, które ułatwiają rozwój aplikacji.\n- **Szybkość wykonywania**: Programy napisane w Pythonie są szybkie w wykonaniu, co jest ważne dla aplikacji sieciowych.\n- **Sporządzanie skryptów**: Można utworzyć skrypty, które uruchamiają programy lub wykonywają specjalne zadania.\n\nPython jest popularny w wielu obszarach:\n\n- **Wykorzystywany w gierach**: Python jest używany do rozwoju gier komputerowych.\n- **Analiza danych**: Python jest popularnym językiem dla analizy danych i nauki danych.\n- **Web**: Python jest używany w konstrukcji aplikacji webowych, takich jak Django i Flask.\n\nW ogólności, Python jest językiem skutecznym w rozwoju różnych typeów aplikacji."
+  }
+]

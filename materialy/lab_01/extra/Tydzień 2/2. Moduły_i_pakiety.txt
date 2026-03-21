@@ -1,0 +1,12 @@
+1. Utwórz wirtualne środowisko:
+   python -m venv .venv
+   source .venv/bin/activate
+
+2. Zainstaluj pakiet:
+   pip install requests
+
+3. Sprawdź, że działa:
+   python -c "import requests; print(requests.__version__)"
+
+4. Zapisz zależności:
+   pip freeze > requirements.txt
