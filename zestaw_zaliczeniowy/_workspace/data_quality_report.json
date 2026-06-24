@@ -1,0 +1,41 @@
+{
+  "contract": "imdb_reviews",
+  "timestamp": "2026-06-24T15:18:16.762404+00:00",
+  "report": {
+    "no_nulls": {
+      "passed": true,
+      "severity": "error",
+      "details": "0 rows contain NULL values"
+    },
+    "labels_in_set": {
+      "passed": true,
+      "severity": "error",
+      "details": "0 invalid labels found"
+    },
+    "min_word_count": {
+      "passed": true,
+      "severity": "error",
+      "details": "0 reviews shorter than 5 words"
+    },
+    "max_word_count": {
+      "passed": true,
+      "severity": "warning",
+      "details": "0 reviews longer than 2000 words"
+    },
+    "no_duplicates": {
+      "passed": true,
+      "severity": "warning",
+      "details": "0 duplicate reviews detected"
+    },
+    "class_balance": {
+      "passed": true,
+      "severity": "warning",
+      "details": "class ratio=1.000"
+    },
+    "no_html_tags": {
+      "passed": false,
+      "severity": "warning",
+      "details": "1189 reviews contain HTML tags"
+    }
+  }
+}
